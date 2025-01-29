@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/touxiang.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: '忧郁de布鲁',
-  bio: '灵魂的自由才是真的自由',
+  bio: '灵魂的自由才是真正的自由',
   links: [
     {
       name: 'GitHub',     // Visit https://icones.js.org/ for icon codes
