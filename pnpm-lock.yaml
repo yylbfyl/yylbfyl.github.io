@@ -59,6 +59,9 @@ importers:
       astro-icon:
         specifier: ^1.1.4
         version: 1.1.4
+      bi:wechat:
+        specifier: link:@iconify-json/bi:wechat
+        version: link:@iconify-json/bi:wechat
       hastscript:
         specifier: ^9.0.0
         version: 9.0.0
